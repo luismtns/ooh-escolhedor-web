@@ -66,3 +66,8 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+.container{
+  max-width: 992px;
+  margin: 0 auto;
+}
