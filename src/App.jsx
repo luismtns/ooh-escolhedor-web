@@ -1,5 +1,5 @@
 import './App.css';
-import { Link, RouterProvider, createBrowserRouter, createHashRouter } from 'react-router-dom';
+import { RouterProvider, createHashRouter } from 'react-router-dom';
 import PrivacyPolicy from './pages/PrivacyPolicy';
 import Home from './pages/Home';
 
